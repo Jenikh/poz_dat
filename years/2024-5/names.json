@@ -1,9 +1,22 @@
 {
-    "1": ["hlemýžď","zahradní"],
-"2": ["okružák","ploský"],
-"3": ["plovatka","bahenní"],
-"4": ["škeble","rybničná"],
-"5": ["rak","říční"],
-
+    "1": [
+        "hlemýžď",
+        "zahradní"
+    ],
+    "2": [
+        "okružák",
+        "ploský"
+    ],
+    "3": [
+        "plovatka",
+        "bahenní"
+    ],
+    "4": [
+        "škeble",
+        "rybničná"
+    ],
+    "5": [
+        "rak",
+        "říční"
+    ]
 }
-

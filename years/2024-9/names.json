@@ -1,17 +1,58 @@
 {
-    "1": ["bažant","obecný"],
-"2": ["čáp","bílý, černý"],
-"3": ["červenka","obecná"],
-"4": ["datel, strakapoud"," černý, velký"],
-"5": ["jestřáb","lesní"],
-"6": ["káně","lesní"],
-"7": ["kachna","divoká"],
-"8": ["koroptev","polní"],
-"9": ["kos","černý"],
-"10": ["kukačka","obecná"],
-"11": ["pěnkava","obecná"],
-"12": ["sýček","obecný"],
-"13": ["sýkora","koňadra, modřinka"],
-"14": ["vrabec","domácí, polní"]
-
+    "1": [
+        "bažant",
+        "obecný"
+    ],
+    "2": [
+        "čáp",
+        "bílý, černý"
+    ],
+    "3": [
+        "červenka",
+        "obecná"
+    ],
+    "4": [
+        "datel, strakapoud",
+        " černý, velký"
+    ],
+    "5": [
+        "jestřáb",
+        "lesní"
+    ],
+    "6": [
+        "káně",
+        "lesní"
+    ],
+    "7": [
+        "kachna",
+        "divoká"
+    ],
+    "8": [
+        "koroptev",
+        "polní"
+    ],
+    "9": [
+        "kos",
+        "černý"
+    ],
+    "10": [
+        "kukačka",
+        "obecná"
+    ],
+    "11": [
+        "pěnkava",
+        "obecná"
+    ],
+    "12": [
+        "sýček",
+        "obecný"
+    ],
+    "13": [
+        "sýkora",
+        "koňadra, modřinka"
+    ],
+    "14": [
+        "vrabec",
+        "domácí, polní"
+    ]
 }

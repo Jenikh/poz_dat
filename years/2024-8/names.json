@@ -1,5 +1,14 @@
 {
-    "1": ["ještěrka","obecná, živorodá"],
-"2": ["užovka","obojková"],
-"3": ["zmije","obecná "]
+    "1": [
+        "ještěrka",
+        "obecná, živorodá"
+    ],
+    "2": [
+        "užovka",
+        "obojková"
+    ],
+    "3": [
+        "zmije",
+        "obecná "
+    ]
 }

@@ -1,18 +1,54 @@
 {
-    "1": ["babočka","paví oko"],
-"2": ["babočka","síťkovaná"],
-"3": ["babočka","admirál"],
-"4": ["babočka","osiková"],
-"5": ["bekyně","mniška"],
-"6": ["bělásek","zelný"],
-"7": ["chroust","obecný"],
-"8": ["lýkožrout","smrkový"],
-"9": ["mravenec","lesní"],
-"10": ["přástevník","medvědí"],
-"11": ["slunéčko","sedmitečné"],
-"12": ["střevlík","měděný, fialový"],
-"13": ["včela","medonosná"]
-
+    "1": [
+        "babočka",
+        "paví oko"
+    ],
+    "2": [
+        "babočka",
+        "síťkovaná"
+    ],
+    "3": [
+        "babočka",
+        "admirál"
+    ],
+    "4": [
+        "babočka",
+        "osiková"
+    ],
+    "5": [
+        "bekyně",
+        "mniška"
+    ],
+    "6": [
+        "bělásek",
+        "zelný"
+    ],
+    "7": [
+        "chroust",
+        "obecný"
+    ],
+    "8": [
+        "lýkožrout",
+        "smrkový"
+    ],
+    "9": [
+        "mravenec",
+        "lesní"
+    ],
+    "10": [
+        "přástevník",
+        "medvědí"
+    ],
+    "11": [
+        "slunéčko",
+        "sedmitečné"
+    ],
+    "12": [
+        "střevlík",
+        "měděný, fialový"
+    ],
+    "13": [
+        "včela",
+        "medonosná"
+    ]
 }
-
-
