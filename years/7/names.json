@@ -1,22 +1,30 @@
 {
     "1": [
-        "kapr",
-        "obecný"
+        "čolek",
+        "horský"
     ],
     "2": [
-        "lín",
+        "čolek",
         "obecný"
     ],
     "3": [
-        "okoun",
-        "říční"
+        "mlok",
+        "skvrnitý"
     ],
     "4": [
-        "pstruh",
-        "potoční"
+        "ropucha",
+        "obecná"
     ],
     "5": [
-        "štika",
-        "obecná"
+        "ropucha",
+        "zelená"
+    ],
+    "6": [
+        "skokan",
+        "zelený"
+    ],
+    "7": [
+        "skokan",
+        "hnědý"
     ]
 }
