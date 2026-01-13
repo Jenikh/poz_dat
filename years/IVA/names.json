@@ -1,731 +1,197 @@
 {
-    "1": [
-        "Smrž",
-        "obecný"
-    ],
-    "2": [
-        "Pýchavka",
-        "obecná"
-    ],
-    "3": [
-        "Hlíva",
-        "ústřičná"
-    ],
-    "4": [
-        "Muchomůrka",
-        "červená"
-    ],
-    "5": [
-        "Muchomůrka",
-        "zelená"
-    ],
-    "6": [
-        "Bedla",
-        "vysoká"
-    ],
-    "7": [
-        "Jedle",
-        "bělokorá"
-    ],
-    "8": [
-        "Smrk",
-        "ztepilý"
-    ],
-    "9": [
-        "Modřín",
-        "opadavý"
-    ],
-    "10": [
-        "Borovice",
-        "lesní"
-    ],
-    "11": [
-        "Borovice",
-        "vejmutovka"
-    ],
-    "12": [
-        "Tis",
-        "červený"
-    ],
-    "13": [
-        "Buk",
-        "lesní"
-    ],
-    "14": [
-        "Dub",
-        "letní"
-    ],
-    "15": [
-        "Dub",
-        "zimní"
-    ],
-    "16": [
-        "Vrba",
-        "jíva"
-    ],
-    "17": [
-        "Vrba",
-        "bílá"
-    ],
-    "18": [
-        "Topol",
-        "osika"
-    ],
-    "19": [
-        "Habr",
-        "obecný"
-    ],
-    "20": [
-        "Bříza",
-        "bělokorá"
-    ],
-    "21": [
-        "Lípa",
-        "malolistá"
-    ],
-    "22": [
-        "Jasan",
-        "ztepilý"
-    ],
-    "23": [
-        "Trnovník",
-        "akát"
-    ],
-    "24": [
-        "Jírovec",
-        "maďal"
-    ],
-    "25": [
-        "Kaštanovník",
-        "jedlý"
-    ],
-    "26": [
-        "Sasanka",
-        "hajní"
-    ],
-    "27": [
-        "Orsej",
-        "jarní"
-    ],
-    "28": [
-        "Jaterník",
-        "podléška"
-    ],
-    "29": [
-        "Oměj",
-        "šalamounek"
-    ],
-    "30": [
-        "Koniklec",
-        "velkokvětý"
-    ],
-    "31": [
-        "Penízek",
-        "rolní"
-    ],
-    "32": [
-        "Kokoška",
-        "pastuší"
-    ],
-    "33": [
-        "Mochna",
-        "husí"
-    ],
-    "34": [
-        "Jahodník",
-        "obecný"
-    ],
-    "35": [
-        "Štírovník",
-        "růžkatý"
-    ],
-    "36": [
-        "Jetel",
-        "luční"
-    ],
-    "37": [
-        "Jetel",
-        "plazivý"
-    ],
-    "38": [
-        "Hluchavka",
-        "bílá"
-    ],
-    "39": [
-        "Rulík",
-        "zlomocný"
-    ],
-    "40": [
-        "Čekanka",
-        "obecná"
-    ],
-    "41": [
-        "Sedmikráska",
-        "obecná"
-    ],
-    "42": [
-        "Pampeliška",
-        "lékařská"
-    ],
-    "43": [
-        "Tulipán"
-    ],
-    "44": [
-        "Ocún",
-        "jesenní"
-    ],
-    "45": [
-        "Hlemýžď",
-        "zahradní"
-    ],
-    "46": [
-        "Žížala",
-        "obecná"
-    ],
-    "47": [
-        "Sekáč"
-    ],
-    "48": [
-        "Třesavka"
-    ],
-    "49": [
-        "Křižák"
-    ],
-    "50": [
-        "Skákavka"
-    ],
-    "51": [
-        "Vodouch"
-    ],
-    "52": [
-        "Rak",
-        "říční"
-    ],
-    "53": [
-        "Rak",
-        "signální"
-    ],
-    "54": [
-        "Vážka"
-    ],
-    "55": [
-        "Šídlo"
-    ],
-    "56": [
-        "Kudlanka",
-        "nábožná"
-    ],
-    "57": [
-        "Strašilka"
-    ],
-    "58": [
-        "Saranče"
-    ],
-    "59": [
-        "Marše"
-    ],
-    "60": [
-        "Kobylka"
-    ],
-    "61": [
-        "Koník"
-    ],
-    "62": [
-        "Krtonožka"
-    ],
-    "63": [
-        "Znakoplavka"
-    ],
-    "64": [
-        "Bruslařka"
-    ],
-    "65": [
-        "Splešťule",
-        "blátivá"
-    ],
-    "66": [
-        "Kněžice",
-        "trávozelená"
-    ],
-    "67": [
-        "Ruměnice",
-        "pospolná"
-    ],
-    "68": [
-        "Cikáda",
-        "chlumní"
-    ],
-    "69": [
-        "Pěnodějka"
-    ],
-    "70": [
-        "Mšice"
-    ],
-    "71": [
-        "Zlatoočka",
-        "obecná"
-    ],
-    "72": [
-        "Dlouhošíjka"
-    ],
-    "73": [
-        "Babočka",
-        "paví"
-    ],
-    "74": [
-        "Bekyně",
-        "mniška"
-    ],
-    "75": [
-        "Můra",
-        "gama"
-    ],
-    "76": [
-        "Dlouhozobka",
-        "svízelová"
-    ],
-    "77": [
-        "Komár"
-    ],
-    "78": [
-        "Tiplice"
-    ],
-    "79": [
-        "Moucha",
-        "domácí"
-    ],
-    "80": [
-        "Koutule",
-        "skvrnitá"
-    ],
-    "81": [
-        "Sršeň",
-        "obecná"
-    ],
-    "82": [
-        "Sršeň",
-        "asijská"
-    ],
-    "83": [
-        "Vosa",
-        "obecná"
-    ],
-    "84": [
-        "Vosa",
-        "útočná"
-    ],
-    "85": [
-        "Včela",
-        "medonosná"
-    ],
-    "86": [
-        "Čmelák"
-    ],
-    "87": [
-        "Drvodělka",
-        "fialová"
-    ],
-    "88": [
-        "Střevlík"
-    ],
-    "89": [
-        "Potápník"
-    ],
-    "90": [
-        "Hrobařík",
-        "obecný"
-    ],
-    "91": [
-        "Roháč",
-        "velký"
-    ],
-    "92": [
-        "Zlatohlávek",
-        "zlatý"
-    ],
-    "93": [
-        "Majka",
-        "fialová"
-    ],
-    "94": [
-        "Slunéčko",
-        "sedmitečné"
-    ],
-    "95": [
-        "Slunéčko",
-        "východní"
-    ],
-    "96": [
-        "Žralok"
-    ],
-    "97": [
-        "Rejnok"
-    ],
-    "98": [
-        "Jeseter"
-    ],
-    "99": [
-        "Sumec",
-        "velký"
-    ],
-    "100": [
-        "Sumeček",
-        "americký"
-    ],
-    "101": [
-        "Losos"
-    ],
-    "102": [
-        "Kapr",
-        "obecný"
-    ],
-    "103": [
-        "Lín",
-        "obecný"
-    ],
-    "104": [
-        "Pstruh",
-        "obecný"
-    ],
-    "105": [
-        "Lipan",
-        "podhorní"
-    ],
-    "106": [
-        "Štika",
-        "obecná"
-    ],
-    "107": [
-        "Okoun",
-        "říční"
-    ],
-    "108": [
-        "Mlok",
-        "skvrnitý"
-    ],
-    "109": [
-        "Čolek",
-        "obecný"
-    ],
-    "110": [
-        "Blatnice",
-        "skvrnitá"
-    ],
-    "111": [
-        "Ropucha",
-        "obecná"
-    ],
-    "112": [
-        "Rosnička",
-        "zelená"
-    ],
-    "113": [
-        "Želva",
-        "nádherná"
-    ],
-    "114": [
-        "Želva",
-        "řecká"
-    ],
-    "115": [
-        "Želva",
-        "pardálí"
-    ],
-    "116": [
-        "Leguán",
-        "zelený"
-    ],
-    "117": [
-        "Agama",
-        "vousatá"
-    ],
-    "118": [
-        "Chameleon"
-    ],
-    "119": [
-        "Gekon"
-    ],
-    "120": [
-        "Slepýš",
-        "křehký"
-    ],
-    "121": [
-        "Zmije",
-        "obecná"
-    ],
-    "122": [
-        "Užovka"
-    ],
-    "123": [
-        "Kachna",
-        "divoká"
-    ],
-    "124": [
-        "Husa",
-        "velká"
-    ],
-    "125": [
-        "Labuť",
-        "velká"
-    ],
-    "126": [
-        "Labuť",
-        "zpěvná"
-    ],
-    "127": [
-        "Lyska",
-        "černá"
-    ],
-    "128": [
-        "Čáp",
-        "bílý"
-    ],
-    "129": [
-        "Čáp",
-        "černý"
-    ],
-    "130": [
-        "Krahujec",
-        "obecný"
-    ],
-    "131": [
-        "Káně",
-        "lesní"
-    ],
-    "132": [
-        "Včelojed",
-        "lesní"
-    ],
-    "133": [
-        "Moták",
-        "pochop"
-    ],
-    "134": [
-        "Orel",
-        "mořský"
-    ],
-    "135": [
-        "Orel",
-        "skalní"
-    ],
-    "136": [
-        "Sokol",
-        "stěhovavý"
-    ],
-    "137": [
-        "Poštolka",
-        "obecná"
-    ],
-    "138": [
-        "Kos",
-        "černý"
-    ],
-    "139": [
-        "Vrabec",
-        "domácí"
-    ],
-    "140": [
-        "Vlaštovka",
-        "obecná"
-    ],
-    "141": [
-        "Sýkora",
-        "modřinka"
-    ],
-    "142": [
-        "Sýkora",
-        "koňadra"
-    ],
-    "143": [
-        "Špaček",
-        "obecný"
-    ],
-    "144": [
-        "Hýl",
-        "obecný"
-    ],
-    "145": [
-        "Kavka",
-        "obecná"
-    ],
-    "146": [
-        "Straka",
-        "obecná"
-    ],
-    "147": [
-        "Konipas",
-        "bílý"
-    ],
-    "148": [
-        "Klokan"
-    ],
-    "149": [
-        "Koala"
-    ],
-    "150": [
-        "Slon",
-        "africký"
-    ],
-    "151": [
-        "Slon",
-        "indický"
-    ],
-    "152": [
-        "Mravenečník"
-    ],
-    "153": [
-        "Lenochod"
-    ],
-    "154": [
-        "Králík",
-        "divoký"
-    ],
-    "155": [
-        "Veverka",
-        "obecná"
-    ],
-    "156": [
-        "Činčila"
-    ],
-    "157": [
-        "Bobr",
-        "evropský"
-    ],
-    "158": [
-        "Křeček",
-        "polní"
-    ],
-    "159": [
-        "Hraboš",
-        "polní"
-    ],
-    "160": [
-        "Krysa"
-    ],
-    "161": [
-        "Potkan"
-    ],
-    "162": [
-        "Myš"
-    ],
-    "163": [
-        "Orangutan"
-    ],
-    "164": [
-        "Gorila"
-    ],
-    "165": [
-        "Šimpanz"
-    ],
-    "166": [
-        "Ježek",
-        "západní"
-    ],
-    "167": [
-        "Ježek",
-        "východní"
-    ],
-    "168": [
-        "Krtek",
-        "obecný"
-    ],
-    "169": [
-        "Prase",
-        "divoké"
-    ],
-    "170": [
-        "Jelen",
-        "lesní"
-    ],
-    "171": [
-        "Jelen",
-        "sika"
-    ],
-    "172": [
-        "Srnec",
-        "obecný"
-    ],
-    "173": [
-        "Kamzík",
-        "horský"
-    ],
-    "174": [
-        "Muflon"
-    ],
-    "175": [
-        "Lachtan"
-    ],
-    "176": [
-        "Mrož"
-    ],
-    "177": [
-        "Tuleň"
-    ],
-    "178": [
-        "Rys",
-        "ostrovid"
-    ],
-    "179": [
-        "Kočka",
-        "divoká"
-    ],
-    "180": [
-        "Lev"
-    ],
-    "181": [
-        "Tygr"
-    ],
-    "182": [
-        "Levhart"
-    ],
-    "183": [
-        "Jaguár"
-    ],
-    "184": [
-        "Gepard"
-    ],
-    "185": [
-        "Hyena",
-        "skvrnitá"
-    ],
-    "186": [
-        "Vlk",
-        "obecný"
-    ],
-    "187": [
-        "Liška",
-        "obecná"
-    ],
-    "188": [
-        "Medvěd",
-        "hnědý"
-    ],
-    "189": [
-        "Medvěd",
-        "lední"
-    ],
-    "190": [
-        "Lasice",
-        "kolčava"
-    ],
-    "191": [
-        "Lasice",
-        "hranostaj"
-    ],
-    "192": [
-        "Kuna",
-        "lesní"
-    ],
-    "193": [
-        "Kuna",
-        "skalní"
-    ],
-    "194": [
-        "Jezevec",
-        "lesní"
-    ],
-    "195": [
-        "Vydra",
-        "říční"
-    ]
+    "1": "Smrž obecný",
+    "2": "Pýchavka obecná",
+    "3": "Hlíva ústřičná",
+    "4": "Muchomůrka červená",
+    "5": "Muchomůrka zelená",
+    "6": "Bedla vysoká",
+    "7": "Jedle bělokorá",
+    "8": "Smrk ztepilý",
+    "9": "Modřín opadavý",
+    "10": "Borovice lesní",
+    "11": "Borovice vejmutovka",
+    "12": "Tis červený",
+    "13": "Buk lesní",
+    "14": "Dub letní",
+    "15": "Dub zimní",
+    "16": "Vrba jíva",
+    "17": "Vrba bílá",
+    "18": "Topol osika",
+    "19": "Habr obecný",
+    "20": "Bříza bělokorá",
+    "21": "Lípa malolistá",
+    "22": "Jasan ztepilý",
+    "23": "Trnovník akát",
+    "24": "Jírovec maďal",
+    "25": "Kaštanovník jedlý",
+    "26": "Sasanka hajní",
+    "27": "Orsej jarní",
+    "28": "Jaterník podléška",
+    "29": "Oměj šalamounek",
+    "30": "Koniklec velkokvětý",
+    "31": "Penízek rolní",
+    "32": "Kokoška pastuší tobolka",
+    "33": "Mochna husí",
+    "34": "Jahodník obecný",
+    "35": "Štírovník růžkatý",
+    "36": "Jetel luční",
+    "37": "Jetel plazivý",
+    "38": "Hluchavka bílá",
+    "39": "Rulík zlomocný",
+    "40": "Čekanka obecná",
+    "41": "Sedmikráska obecná",
+    "42": "Pampeliška lékařská",
+    "43": "Tulipán",
+    "44": "Ocún jesenní",
+    "45": "Hlemýžď zahradní",
+    "46": "Žížala obecná",
+    "47": "Sekáč",
+    "48": "Třesavka",
+    "49": "Křižák",
+    "50": "Skákavka",
+    "51": "Vodouch",
+    "52": "Rak říční",
+    "53": "Rak signální",
+    "54": "Vážka",
+    "55": "Šídlo",
+    "56": "Kudlanka nábožná",
+    "57": "Strašilka",
+    "58": "Saranče",
+    "59": "Marše",
+    "60": "Kobylka",
+    "61": "Koník",
+    "62": "Krtonožka",
+    "63": "Znakoplavka",
+    "64": "Bruslařka",
+    "65": "Splešťule blátivá",
+    "66": "Kněžice trávozelená",
+    "67": "Ruměnice pospolná",
+    "68": "Cikáda chlumní",
+    "69": "Pěnodějka",
+    "70": "Mšice",
+    "71": "Zlatoočka obecná",
+    "72": "Dlouhošíjka",
+    "73": "Babočka paví oko",
+    "74": "Bekyně mniška",
+    "75": "Můra gama",
+    "76": "Dlouhozobka svízelová",
+    "77": "Komár",
+    "78": "Tiplice",
+    "79": "Moucha domácí",
+    "80": "Koutule skvrnitá",
+    "81": "Sršeň obecná",
+    "82": "Sršeň asijská",
+    "83": "Vosa obecná",
+    "84": "Vosa útočná",
+    "85": "Včela medonosná",
+    "86": "Čmelák",
+    "87": "Drvodělka fialová",
+    "88": "Střevlík",
+    "89": "Potápník",
+    "90": "Hrobařík obecný",
+    "91": "Roháč velký",
+    "92": "Zlatohlávek zlatý",
+    "93": "Majka fialová",
+    "94": "Slunéčko sedmitečné",
+    "95": "Slunéčko východní",
+    "96": "Žralok",
+    "97": "Rejnok",
+    "98": "Jeseter",
+    "99": "Sumec velký",
+    "100": "Sumeček americký",
+    "101": "Losos",
+    "102": "Kapr obecný",
+    "103": "Lín obecný",
+    "104": "Pstruh obecný",
+    "105": "Lipan podhorní",
+    "106": "Štika obecná",
+    "107": "Okoun říční",
+    "108": "Mlok skvrnitý",
+    "109": "Čolek obecný",
+    "110": "Blatnice skvrnitá",
+    "111": "Ropucha obecná",
+    "112": "Rosnička zelená",
+    "113": "Želva nádherná",
+    "114": "Želva řecká",
+    "115": "Želva pardálí",
+    "116": "Leguán zelený",
+    "117": "Agama vousatá",
+    "118": "Chameleon",
+    "119": "Gekon",
+    "120": "Slepýš křehký",
+    "121": "Zmije obecná",
+    "122": "Užovka",
+    "123": "Kachna divoká",
+    "124": "Husa velká",
+    "125": "Labuť velká",
+    "126": "Labuť zpěvná",
+    "127": "Lyska černá",
+    "128": "Čáp bílý",
+    "129": "Čáp černý",
+    "130": "Krahujec obecný",
+    "131": "Káně lesní",
+    "132": "Včelojed lesní",
+    "133": "Moták pochop",
+    "134": "Orel mořský",
+    "135": "Orel skalní",
+    "136": "Sokol stěhovavý",
+    "137": "Poštolka obecná",
+    "138": "Kos černý",
+    "139": "Vrabec domácí",
+    "140": "Vlaštovka obecná",
+    "141": "Sýkora modřinka",
+    "142": "Sýkora koňadra",
+    "143": "Špaček obecný",
+    "144": "Hýl obecný",
+    "145": "Kavka obecná",
+    "146": "Straka obecná",
+    "147": "Konipas bílý",
+    "148": "Klokan",
+    "149": "Koala",
+    "150": "Slon africký",
+    "151": "Slon indický",
+    "152": "Mravenečník",
+    "153": "Lenochod",
+    "154": "Králík divoký",
+    "155": "Veverka obecná",
+    "156": "Činčila",
+    "157": "Bobr evropský",
+    "158": "Křeček polní",
+    "159": "Hraboš polní",
+    "160": "Krysa",
+    "161": "Potkan",
+    "162": "Myš",
+    "163": "Orangutan",
+    "164": "Gorila",
+    "165": "Šimpanz",
+    "166": "Ježek západní",
+    "167": "Ježek východní",
+    "168": "Krtek obecný",
+    "169": "Prase divoké",
+    "170": "Jelen lesní",
+    "171": "Jelen sika",
+    "172": "Srnec obecný",
+    "173": "Kamzík horský",
+    "174": "Muflon",
+    "175": "Lachtan",
+    "176": "Mrož",
+    "177": "Tuleň",
+    "178": "Rys ostrovid",
+    "179": "Kočka divoká",
+    "180": "Lev",
+    "181": "Tygr",
+    "182": "Levhart",
+    "183": "Jaguár",
+    "184": "Gepard",
+    "185": "Hyena skvrnitá",
+    "186": "Vlk obecný",
+    "187": "Liška obecná",
+    "188": "Medvěd hnědý",
+    "189": "Medvěd lední",
+    "190": "Lasice kolčava",
+    "191": "Lasice hranostaj",
+    "192": "Kuna lesní",
+    "193": "Kuna skalní",
+    "194": "Jezevec lesní",
+    "195": "Vydra říční"
 }
