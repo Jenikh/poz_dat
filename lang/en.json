@@ -64,5 +64,8 @@
   "thanks.you": "You!",
   "thanks.you.after": "Because you are viewing this page!",
   "thanks.secret": "Thank you for viewing this page! Tell J__ H_n_s at school that you found this message!",
-  "thanks.version": "Version"
+  "thanks.version": "Version",
+  "page.settings.title": "Nature Identification - Settings",
+  "settings.language.select": "Select Language",
+  "content.settings": "Settings"
 }
